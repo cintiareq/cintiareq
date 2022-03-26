@@ -29,7 +29,7 @@
 
 <div>
 
-### Veja algumas linguagens que eu domino
+### Veja algumas linguagens que eu tenho conhecimento
 
 <br>
 

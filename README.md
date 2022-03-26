@@ -1,6 +1,9 @@
-## Oi eu sou a Cintia, bem vindo(a) ao meu repositório do GitHub!! 🖖
+<div align="center">
 
-#### Um pouco sobre mim
+## 👩🏻‍💻 Oi eu sou a Cintia, bem vindo(a) ao meu repositório do GitHub!! 👩🏻‍💻
+</div>
+
+### Um pouco sobre mim
 
 🖼️ Desenvolvedora Front-End. <br>
 💼 Atualmente trabalho na [Level um](https://levelum.com.br/index.html), onde sou Software Engineer. <br>

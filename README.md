@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👩🏻‍💻 Oi, eu sou a Cintia, bem vindo(a) ao meu repositório do GitHub!! 👩🏻‍💻
+## 👩🏻‍💻 Oi, eu sou a Cintia, bem-vinde ao meu repositório do GitHub!! 👩🏻‍💻
 </div>
 
 ### Um pouco sobre mim

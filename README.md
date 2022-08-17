@@ -6,7 +6,7 @@
 ### Um pouco sobre mim
 
 🖼️ Desenvolvedora Front-End. <br>
-💼 Atualmente trabalho na [Level um](https://levelum.com.br/index.html), onde sou Software Engineer. <br>
+💼 Atualmente trabalho na [Cora](https://www.cora.com.br), como Desenvolvedora Back-end. <br>
 😄 Pronomes: Ela/Dela. <br>
 ⚡ Hobbies: Assistir séries/filmes, jogar com os amigos, ler mangas e mimar o meu gato. <br>
 💻 Acesse meu [Linkedin](https://www.linkedin.com/in/cintia-requiao/).

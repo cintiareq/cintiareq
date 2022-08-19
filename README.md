@@ -5,7 +5,7 @@
 
 ### Um pouco sobre mim
 
-🖼️ Desenvolvedora Front-End. <br>
+🖼️ Desenvolvedora Fullstack. <br>
 💼 Atualmente trabalho na [Cora](https://www.cora.com.br), como Desenvolvedora Back-end. <br>
 😄 Pronomes: Ela/Dela. <br>
 ⚡ Hobbies: Assistir séries/filmes, jogar com os amigos, ler mangas e mimar o meu gato. <br>
